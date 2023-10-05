@@ -28,6 +28,12 @@ Fonts are separated by a & */
   --nav-hover-background-color: #042d4b;
 }
 
+img.logo {
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
