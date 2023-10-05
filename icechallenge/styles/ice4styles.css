@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+}
+
+.main{
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Arial Bold', sans-serif;
+}
+
+.edu{
+    width: 450px;
+    margin: 0 auto;
+    color: white;
+}
+
+.mainc:hover{
+    color: black;
+}
+
+.one{
+    color: white;
+}
+
+.name{
+    color: white;
+}
+
+ol{
+    text-align: left;
+}
