@@ -27,5 +27,9 @@ body{
 }
 
 ol{
-    text-align: left;
+    text-align: center;
+}
+
+li{
+    padding: 0 0 0 5%;
 }

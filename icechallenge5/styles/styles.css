@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-size: 0;
+    background-color: grey;
+}
+
+#hero{
+    width: 100%;
+}
+
+.imageclass{
+    margin: 5% 10% 5% 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.images{
+    width: 20%;
+    border-radius: 50%;
+    border: 10px solid rgb(65, 63, 63);
+}
