@@ -144,6 +144,7 @@ footer p{
 
 footer p a:hover{
     text-decoration: underline;
+    font-size: 100%;
 }
 
 footer .social img{
