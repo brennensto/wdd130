@@ -1,0 +1,29 @@
+#content{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border-style: solid;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+#tw, #text{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: grey;
+}
+
+#view{
+    border: solid 1px gray;
+    border-top: none;
+    border-bottom: none;
+}
+
+.bottom-grid{
+    border-style: solid;
+    border-color: aliceblue;
+    background-color: rgb(101, 101, 212);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
